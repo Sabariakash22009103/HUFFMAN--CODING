@@ -1,7 +1,6 @@
 # Huffman Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
-
 ## Software Required
 Anaconda - Python 3.7
 ## Algorithm:
@@ -19,9 +18,9 @@ calculate frequency of occurence
 
 Step5:
 print the characters and its huffmancode
-
 ## Program:
 DEVELOPED BY: SABARI AKASH A
+
 REGISTER NO: 212222230124
 # Get the input String
 ```py
@@ -78,10 +77,8 @@ for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
 
 ```
-
 ## Output:
 Print the characters and its huffmancode
 ![326241586-db995769-7ecf-459e-804a-35f93150783e](https://github.com/Sabariakash22009103/HUFFMAN--CODING/assets/119390227/9acb5dfb-46ef-4c00-884c-23ee6beaeb51)
-
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
